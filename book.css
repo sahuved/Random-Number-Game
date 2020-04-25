@@ -1,0 +1,51 @@
+
+
+
+body{
+	margin: 0;
+	padding: 0;
+	background-image:url("img/db.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	font-family: 'Bangers', cursive; 
+}
+
+
+
+
+
+
+.container{
+	width: 70%;margin:auto;text-align: center;
+}
+.dice{
+	text-align:center;display:inline-block;
+	
+}
+
+h1{
+	text-shadow:  5px 0 white;
+	font-size: 100px;
+	font-weight: bolder;
+}
+
+p{
+	font-size:50px;
+	color:white;
+	font-weight: bolder;
+	text-shadow:  5px 0 black;
+}
+
+button{
+	border-radius: 50px;
+	padding:10px;
+	color:white;
+	background-color: green;
+	text-decoration-color: none;
+	outline: none;
+	font-size: 30px;
+	border:none;
+	font-family: 'Bangers', cursive; 
+}
+
